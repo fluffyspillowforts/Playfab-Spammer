@@ -2,9 +2,11 @@ WORKS 2026 APR
 
 This is a tool used to overload playfab apps. 
 
+Works with these types of auth:
+- Photon auth
+- No auth
+
 Notes:
-- Yes I did use AI for the html (GUI), I didn't want to waste time making a GUI.
-- This only works in games without auth, soon I will make auth bypass for this.
 - If you skid/steal this I can issue a DMCA takedown for copyright violation. (and also why would you skid something that's public?)
 - If you encounter any issues or want to suggest something then join the Discord server: https://discord.gg/cvNSmKYkpn
 
