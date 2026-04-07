@@ -32,7 +32,7 @@ Guide:
 Steps:
 1. First you need to find the title ID for the game your gonna spam (if you don't already have it: you need to rip the game with asset ripper, open the ripped game with VS Code, then search for the title ID in the all the code.) and enter the title ID into the Title ID section.
 
-2. Then you need to get some proxies (I highly recommend https://dashboard.webshare.io/ its free) after you get your proxies you need to make a .txt file and put the proxie info in a list (example on formatting under this step) and enter the file path into the Proxy File section.
+2. Then you need to get some proxies (I highly recommend https://proxyscrape.com (100 free proxies) or https://dashboard.webshare.io/ (10 free proxies) they are free) after you get your proxies you need to make a .txt file and put the proxie info in a list (example on formatting under this step) and enter the file path into the Proxy File section.
 
 Proxy txt file example:
 
