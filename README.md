@@ -13,6 +13,7 @@
 WORKS 2026 APR
 
 This is a tool used to overload playfab apps. 
+For educational purposes only
 
 Works with these types of auth:
 - Photon auth
