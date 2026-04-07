@@ -22,6 +22,7 @@ Works with these types of auth:
 Notes:
 - If you skid/steal this I can issue a DMCA takedown for copyright violation. (and also why would you skid something that's public?)
 - If you encounter any issues or want to suggest something then join the Discord server: https://discord.gg/cvNSmKYkpn
+- I wouldn't recommend getting caught using this.
 
 <img width="1916" height="1025" alt="Screenshot 2026-04-05 125801" src="https://github.com/user-attachments/assets/03a34dc2-78e6-4d22-8ff3-5f7586e4e160" />
 
@@ -53,3 +54,10 @@ This is the exact formatting, do not put anything else into the txt file.
 4. Choose mode, count creates a specifc amount of account, on error makes it create accounts until an error acures, and forever makes it go as long as it can.
 
 5. Press start and your done, thanks for using my tool!
+
+How it works:
+
+After the user presses start the application will start raiding the https://{TITLE ID}.playfabapi.com/Client/RegisterPlayFabUser url with alt accounts, each IP address has a account creation rate limit of 4 accounts per 60s~, so thats why you need proxies (a proxy is like a vpn but doesn't encypt your network data), each worker runs (sometimes delays between workers) on start then when they get rate limited they pause. 
+
+If you fill up a playfab app all workers will cycle through Idle>Req>Error and you won't see anymore workers finish.
+
