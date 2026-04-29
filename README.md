@@ -3,6 +3,13 @@
 </p>
 <p align="center">
     Playfab Spammer
+
+<h1></h1>
+<p align="center">
+No longer being worked on.</p>
+<p align="center">
+-Love, Fluffy
+ </p> 
 </p>
 <p align="center">
   <a href="https://discord.gg/cvNSmKYkpn"> 
@@ -10,7 +17,8 @@
   </a>
 </p>
 
-WORKS 2026 APR
+
+WORKS 2026 APR+
 
 This is a tool used to overload playfab apps. 
 
@@ -23,7 +31,6 @@ Works with these types of auth:
 *(In simpler terms: works on unprotected games like gtag copies or niche fan-games.)*
 
 Notes:
-- If you skid/steal this I can issue a DMCA takedown for copyright violation. (and also why would you skid something that's public?)
 - If you encounter any issues or want to suggest something then join the Discord server: https://discord.gg/cvNSmKYkpn
 - I wouldn't recommend getting caught using this.
 
